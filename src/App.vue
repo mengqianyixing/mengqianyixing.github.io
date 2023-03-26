@@ -1,5 +1,4 @@
 <script setup lang="ts">
-// init
 useHead({
   meta: [
     { property: 'og:title', content: 'Anthony Fu' },
